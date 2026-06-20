@@ -2,7 +2,7 @@
 
 [![header](https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=6,11,20&height=180&section=header&text=Tamizhazhagan%20S&fontSize=42&fontColor=fff&fontAlignY=32&desc=ECE%20Engineer%20%C2%B7%20Full-Stack%20Java%20Developer%20%C2%B7%20IoT%20Systems%20Researcher&descAlignY=62&descSize=16)](https://tamizhazhagan-ece.github.io/tamizhazhagan-portfolio/)
 
-[![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&weight=700&size=22&duration=3000&pause=1000&color=70A5FD&center=true&vCenter=true&width=750&lines=B.E.+ECE+%7C+Anna+University+%7C+2026;IoT+Researcher+%7C+Published+in+IJEETR+2026;Full-Stack+Java+Developer+%7C+12%2B+HackerRank+Certs;LeetCode+35%2B+Problems+%7C+Hard+Tier)](https://tamizhazhagan-ece.github.io/tamizhazhagan-portfolio/)
+[![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&weight=700&size=22&duration=3000&pause=1000&color=70A5FD&center=true&vCenter=true&width=750&lines=B.E.+ECE+%7C+Anna+University+%7C+2026;IoT+Researcher+%7C+Published+in+IJEETR+2026;Full-Stack+Java+Developer+%7C+12%2B+HackerRank+Certs;LeetCode+85%2B+Problems+%7C+Hard+Tier)](https://tamizhazhagan-ece.github.io/tamizhazhagan-portfolio/)
 
 ![Profile Views](https://komarev.com/ghpvc/?username=tamizhazhagan-ece&style=flat-square&color=70a5fd&label=Profile+Views)
 
